@@ -1,0 +1,23 @@
+# database python tool
+pymongo
+pymysql
+
+# database toolkit
+sqlalchemy
+
+# data processing
+pandas
+bson
+
+# text processing
+lxml
+textblob
+spacy "en_core_web_sm"
+
+# UI
+flask
+flask_cors
+werkzeug
+
+
+

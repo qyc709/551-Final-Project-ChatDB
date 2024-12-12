@@ -1,0 +1,148 @@
+/* Main container styling */
+.App {
+  text-align: center;
+  background-color: white;
+}
+
+/* Header at the top with welcome message */
+.App-header {
+  background-color: white;
+  padding: 10px;
+  text-align: left;
+  font-size: 24px;
+  color: #333;
+}
+
+/* Chat container */
+.chat-container {
+  height: 70vh; /* Adjusted to give space for the header */
+  width: 100%;
+  overflow-y: scroll;
+  padding: 20px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+/* Chatbox styling */
+.chatbox {
+  max-width: 60%;
+  padding: 10px;
+  border-radius: 20px;
+  font-size: 16px;
+  line-height: 1.5;
+  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+/* Message styling for user */
+.user-message {
+  background-color: #f1f1f1;
+  align-self: flex-start;
+  color: #333;
+}
+
+/* Message styling for you (my messages) */
+.my-message {
+  background-color: #007bff;
+  align-self: flex-end;
+  color: white;
+}
+
+/* Input box styling at the bottom */
+.input-container {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: #f8f4f4;
+  padding: 10px;
+  border-radius: 15px;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+}
+
+.input-box {
+  flex-grow: 1; /* Input takes up available space */
+  padding: 10px;
+  border: none;
+  font-size: 16px;
+  background-color: #f8f4f4;
+}
+
+/* Attach button styling */
+.attach-button {
+  background-color: transparent;
+  border: none;
+  margin-right: 10px;
+  cursor: pointer;
+  color: #007bff;
+  font-size: 24px;
+}
+
+/* Scroll button styling */
+.scroll-button {
+  background-color: #333;
+  border: none;
+  border-radius: 50%;
+  padding: 10px;
+  cursor: pointer;
+  color: white;
+}
+.Modal {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  right: auto;
+  bottom: auto;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  width: 300px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+}
+
+.Overlay {
+  background: rgba(0, 0, 0, 0.5);
+}
+
+.Modal h2 {
+  margin-bottom: 20px; /* Add margin below the heading */
+}
+
+.Modal button {
+  margin: 0 10px; /* Horizontal margin between buttons */
+  padding: 8px 16px; /* Padding inside buttons for better click area */
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: #f5f5f5;
+  transition: background-color 0.3s;
+}
+
+.Modal button:hover {
+  background-color: #e0e0e0; /* Change background on hover */
+}
+.system-message {
+  align-self: flex-start;
+  background-color: #f1f1f1;
+  color: #333;
+  padding: 8px;
+  border-radius: 5px;
+  margin: 4px 0;
+  max-width: 80%;
+  white-space: pre-wrap;
+  text-align: left;
+}
+
+.my-message {
+  align-self: flex-end;
+  background-color: #007bff;
+  color: #fff;
+  padding: 8px;
+  border-radius: 5px;
+  margin: 4px 0;
+  max-width: 80%;
+}

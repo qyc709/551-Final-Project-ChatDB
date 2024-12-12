@@ -1,0 +1,425 @@
+Customer_id,ProductCategory,Quantity,Price,TransactionDate,PaymentMethod,StoreLocation,ProductCategory,DiscountApplied,TotalAmount
+109318,C,7,80.08,12/26/2023 12:32,Cash,"176 Andrew Cliffs
+Baileyfort, HI 93354",Books,19,455.86
+993229,C,4,75.2,8/5/2023 0:00,Cash,"11635 William Well Suite 809
+East Kara, MT 19483",Home Decor,14,258.31
+579675,A,8,31.53,3/11/2024 18:51,Cash,"910 Mendez Ville Suite 909
+Port Lauraland, MO 99563",Books,16,212.02
+799826,D,5,98.88,10/27/2023 22:00,PayPal,"87522 Sharon Corners Suite 500
+Lake Tammy, MO 76234",Books,7,461.34
+121413,A,7,93.19,12/22/2023 11:38,Cash,"0070 Michelle Island Suite 143
+Holand, VA 80142",Electronics,4,626.03
+463050,D,3,54.09,8/15/2023 4:24,Cash,"8492 Jonathan Drive
+North Robertshire, TN 67532",Electronics,11,144.61
+888163,D,7,13.12,12/26/2023 5:32,PayPal,"USNV Harrell
+FPO AA 62814",Clothing,16,76.89
+843385,A,8,56.03,10/11/2023 6:48,Debit Card,"489 Juan Loop Apt. 093
+North Brettville, WV 72610",Home Decor,6,419.77
+839609,B,5,23.86,2/27/2024 11:13,Credit Card,"528 Justin Expressway Apt. 336
+Cabreraborough, SD 17915",Electronics,19,96.98
+184135,D,4,63.34,11/5/2023 1:46,Debit Card,"189 Wright Mews
+Martinfurt, MO 75932",Books,8,234.01
+266491,C,8,98.79,9/25/2023 4:38,Debit Card,"388 Matthew Lane Apt. 592
+West Andreachester, IN 96537",Books,14,678.31
+65632,D,8,78.12,12/29/2023 5:07,PayPal,"PSC 1498, Box 4142
+APO AP 10928",Electronics,15,533.09
+26863,B,3,39,12/27/2023 15:34,Credit Card,"623 William Track Apt. 920
+Port Dave, NE 02045",Electronics,14,100.2
+632732,D,6,45.47,2/8/2024 8:03,Cash,"5370 Nichols Fork Suite 983
+Georgeshire, MT 20848",Books,11,243.99
+798425,D,5,95.01,10/27/2023 17:50,Cash,"1573 Petty Parkway Apt. 835
+Jordanmouth, IN 05999",Clothing,16,397.87
+780621,B,2,19.91,9/23/2023 18:51,Cash,"419 Kerr Passage Apt. 443
+Martinezfort, MN 45678",Clothing,14,34.07
+633299,D,8,90.11,2/28/2024 21:34,Credit Card,"1250 Gary Way Apt. 756
+South Thomasport, ND 39813",Clothing,15,611.52
+271379,D,6,16.71,2/1/2024 2:35,PayPal,"73061 Larry Pass Apt. 190
+Fischerstad, PW 81056",Clothing,18,81.87
+246231,B,2,47.32,4/28/2024 21:20,Credit Card,"103 Noah Court Apt. 298
+South Caseymouth, FM 01144",Electronics,7,88.1
+818911,B,5,77.09,4/6/2024 18:59,Credit Card,"44623 Elizabeth Throughway Apt. 440
+Amberview, VA 51707",Books,19,311.24
+35935,B,1,45.56,1/21/2024 21:44,Credit Card,"9990 Frank Views
+Davisstad, MS 73745",Home Decor,18,37.18
+274967,D,6,61.4,4/24/2024 12:16,Credit Card,"12858 Kidd Roads
+Cantuberg, AR 21025",Books,15,311.54
+175504,C,9,54.17,11/28/2023 21:59,Cash,"90868 Garcia Bypass Apt. 888
+New Joshua, WY 53394",Books,11,433.88
+589752,A,1,64.42,10/22/2023 23:46,Debit Card,"78412 Hernandez Lock Suite 138
+South Lauren, PA 69595",Clothing,0,64.35
+86522,B,3,25.38,8/2/2023 11:16,Debit Card,"5446 Brooke Row Apt. 988
+West Mary, OH 86664",Clothing,15,64.62
+609241,A,7,62.03,6/12/2023 7:02,PayPal,"Unit 7268 Box 3644
+DPO AP 43969",Clothing,18,354.35
+869542,A,4,98.85,3/24/2024 15:55,Cash,"750 Alyssa Junctions Suite 666
+Port Richard, NV 18166",Home Decor,9,360.1
+418277,A,9,27.45,11/29/2023 11:40,Credit Card,"71524 Margaret Dam
+North Rhondaborough, VA 49112",Clothing,4,236.18
+284956,B,3,16.03,3/17/2024 10:12,PayPal,"942 Howell Island
+Bowenfurt, NJ 02752",Home Decor,15,40.96
+237711,D,5,45.26,5/3/2023 16:18,Credit Card,"44122 Jones Radial Suite 913
+Scottshire, IN 05723",Books,12,199.08
+47999,D,3,43.69,3/12/2024 18:31,PayPal,"257 Martin Falls
+Whitakerborough, SC 38376",Home Decor,20,104.89
+43807,C,7,21.32,9/25/2023 8:00,Debit Card,"4565 Wright Land
+North Daniel, IA 65963",Home Decor,4,143.85
+628270,A,5,61.43,6/4/2023 0:37,Debit Card,"6472 Jones Courts Apt. 861
+West Dawnport, KS 09150",Books,6,287.74
+550741,D,9,49.38,10/3/2023 13:19,Cash,"4314 Thomas Walk
+Daleshire, IL 52627",Clothing,17,368.61
+101274,D,7,85.32,12/16/2023 23:10,Credit Card,"70323 Stacey Underpass Suite 300
+Bishopberg, IL 77977",Books,13,518.36
+140471,B,2,48.07,6/20/2023 16:12,Credit Card,"21894 Raymond Ports
+North Gabriela, WA 85466",Electronics,17,80.25
+635224,B,4,98.71,12/23/2023 10:49,PayPal,"13996 Peter Mountain Apt. 674
+Craigport, FM 62580",Books,14,340.16
+2398,C,9,80.19,4/20/2024 11:19,Credit Card,"49823 Robin Rue
+Leonardchester, VT 82863",Electronics,4,689.52
+857878,C,2,53.87,1/15/2024 19:14,Debit Card,"265 Williams Passage
+North Andrew, GU 20893",Books,12,94.73
+939765,B,9,59.7,7/9/2023 5:55,Debit Card,"763 Castro Greens Suite 106
+Lake Katrina, OK 64411",Books,19,436.39
+11882,D,5,88.01,5/28/2023 7:45,Debit Card,"711 Megan Garden Apt. 572
+Nathanview, ND 02023",Electronics,13,382.5
+147124,C,2,79.67,5/25/2023 10:49,Cash,"USNS David
+FPO AE 12953",Clothing,13,138.77
+895908,B,4,69.2,10/8/2023 19:08,Debit Card,"53378 Lauren Union Suite 356
+Mullinsborough, MP 94292",Electronics,17,231.09
+589251,A,7,34.01,12/13/2023 3:37,PayPal,"991 Dennis Overpass Suite 417
+South Julie, VA 10018",Clothing,14,204.49
+608105,B,8,46.93,10/24/2023 3:23,Cash,"55336 Meagan Loaf
+Martinstad, NH 88472",Home Decor,16,314.94
+800568,D,3,80.85,3/25/2024 14:42,Credit Card,"6238 Scott Fork Suite 235
+North Andrewmouth, MD 44878",Electronics,6,228.31
+985370,A,1,66.47,12/19/2023 21:54,PayPal,"602 Smith Plains
+Port Jacquelinechester, DC 13268",Electronics,11,59.48
+240172,B,4,96.08,12/27/2023 5:26,PayPal,"8369 Gentry Tunnel Suite 510
+East Edwardstad, RI 25668",Clothing,17,317.3
+232632,D,2,88.56,8/12/2023 2:00,Credit Card,"3811 William Station Suite 818
+Garciafort, OH 36967",Home Decor,13,154.38
+138129,B,8,48.44,1/6/2024 3:16,Cash,"2059 Moore Station
+Clarkehaven, WI 88632",Clothing,7,361.95
+201514,B,4,36.44,6/16/2023 14:07,Cash,"0894 Leonard Cliff
+North Ellenstad, MN 82818",Books,6,137.55
+143001,A,2,21.17,6/26/2023 9:23,PayPal,"31207 Johnson Crest
+Georgeland, WV 31249",Home Decor,15,35.85
+391352,D,6,46.69,5/8/2023 0:15,Cash,"5091 Sullivan Mountains
+Joshuaside, FM 03816",Home Decor,14,241.38
+94047,A,6,30.4,3/29/2024 18:32,Cash,"9919 Smith Island Apt. 355
+Peterview, OK 37147",Electronics,10,164.51
+182358,C,4,11.5,11/27/2023 10:44,Credit Card,"00172 Tamara Lake
+Woodsville, TX 24419",Books,4,44.19
+91439,D,6,22.44,4/26/2024 13:07,PayPal,"18886 Kara Brooks Apt. 597
+East Kellyfort, WV 95330",Electronics,6,126.73
+370994,D,2,50.77,10/1/2023 9:48,Credit Card,"728 Richard Flats
+Janeport, WV 96023",Clothing,18,83.64
+194267,C,2,90.32,5/20/2023 13:23,PayPal,"46843 Christina Points Apt. 345
+Snyderhaven, ME 39116",Clothing,7,168.28
+597183,D,4,38.89,5/19/2023 19:02,Cash,"60674 Robles Overpass
+Jonfort, DC 58160",Clothing,10,139.52
+173860,D,8,49.7,8/24/2023 3:49,Cash,"91529 Cody Mills Suite 147
+Churchmouth, FL 72882",Clothing,6,372.05
+667324,A,7,44.57,3/15/2024 13:29,PayPal,"1347 Chang Rue Suite 808
+Kennethmouth, AL 49384",Electronics,16,262.91
+74054,A,9,43.21,4/16/2024 5:10,Debit Card,"454 Mendoza Springs Suite 108
+Davidtown, FL 92203",Home Decor,4,373.55
+766020,B,8,75.04,9/7/2023 17:20,PayPal,"68293 Ryan Station
+Martinchester, OH 22553",Home Decor,17,500.56
+301389,A,5,55.54,3/31/2024 20:19,Debit Card,"15068 Regina Isle
+Ariasshire, AZ 83493",Electronics,9,252.65
+604511,D,2,46.76,10/24/2023 21:15,Credit Card,"56928 Patricia Mountains
+West Andrea, OH 00781",Books,9,85.3
+107408,D,5,94.9,4/24/2024 17:03,Cash,"67679 Chen Rapids Apt. 359
+Williamchester, AS 53803",Books,18,386.95
+62783,C,8,34.87,7/1/2023 22:17,Credit Card,"98846 Joe Hills Suite 859
+Nelsonside, MS 19302",Electronics,5,265.36
+937640,C,9,84.96,10/6/2023 8:15,Credit Card,"55894 Linda Courts Apt. 063
+Stevenbury, MA 20451",Home Decor,16,645.81
+116855,B,9,56.35,12/24/2023 22:56,Cash,"6918 Ashley Walks
+West Jean, MN 95503",Electronics,19,409.27
+775212,D,1,49.75,2/25/2024 8:51,Debit Card,"005 Faulkner Walk
+Matthewhaven, NC 85743",Books,19,40.22
+624973,D,9,15.67,11/22/2023 2:05,PayPal,"47515 Grimes Grove Apt. 919
+East James, GA 19407",Electronics,15,119.9
+210377,A,7,87.26,3/2/2024 22:56,Debit Card,"Unit 4486 Box 3431
+DPO AE 41617",Books,5,578.06
+73098,C,9,34.36,1/2/2024 16:43,Cash,"696 Cruz Highway Suite 922
+Amberview, MN 52354",Electronics,18,253.86
+600510,B,8,71.14,9/29/2023 10:47,Cash,"28132 Wolfe Bypass
+West Russellberg, MI 13911",Electronics,8,522.35
+120603,A,1,88.7,3/3/2024 22:13,Credit Card,"04736 Nicholas Islands Suite 795
+Jamesland, IN 70189",Clothing,8,81.87
+449129,B,8,58.25,11/7/2023 10:54,Debit Card,"3011 Smith Island Suite 451
+East Philliphaven, WY 63813",Clothing,8,429.63
+300948,B,8,67.66,11/15/2023 0:21,Debit Card,"67274 Mendez Curve
+Hawkinsfurt, NY 02451",Home Decor,1,534.71
+268031,C,3,40.62,12/1/2023 17:31,PayPal,"172 Christopher Route
+North Christyside, MO 24531",Electronics,7,113.17
+70530,C,1,75.39,6/8/2023 19:38,PayPal,"PSC 8454, Box 4823
+APO AE 17356",Books,18,61.49
+54429,D,8,69.09,12/8/2023 4:16,Debit Card,"5933 Roberts Wall Apt. 225
+South Dannyborough, WA 41280",Home Decor,5,523.06
+120177,D,3,50.03,3/23/2024 11:50,PayPal,"42485 Kristina Walks
+Catherinemouth, CT 93272",Electronics,6,141.04
+853797,D,3,67.11,4/16/2024 4:11,Credit Card,"904 Elizabeth Gardens Suite 981
+New Isaiah, PR 39559",Books,16,170.12
+127138,D,1,33.64,5/31/2023 7:24,Debit Card,"008 Knight Pines
+Myersberg, FM 97841",Home Decor,1,33.22
+472995,B,5,69.2,5/19/2023 2:21,Cash,"Unit 5493 Box 4915
+DPO AE 46180",Books,16,288.94
+493821,A,7,70.55,12/28/2023 11:49,Credit Card,"280 Grant Junctions Apt. 423
+Crosbyfort, NV 96865",Electronics,17,409.19
+571728,A,9,50.04,1/11/2024 14:19,Credit Card,"4918 Benson Springs Apt. 545
+Bakerville, AS 80512",Books,3,437.45
+509745,C,7,32.44,3/1/2024 18:51,Debit Card,"Unit 4248 Box 3478
+DPO AP 26267",Books,5,216.42
+229231,B,9,82.28,6/14/2023 22:16,Credit Card,"501 Wright Junction
+Port William, DE 66411",Home Decor,14,634.01
+268207,D,8,77.87,3/11/2024 9:34,Debit Card,"469 Walker Forks Apt. 596
+Danielburgh, OH 96428",Clothing,9,564.33
+727748,B,2,15.14,1/22/2024 1:18,Credit Card,"27719 Johnson Land Suite 271
+Lake Rachel, MS 25472",Electronics,6,28.38
+216500,A,1,54.48,7/2/2023 6:11,Credit Card,"616 Edwards Walk Suite 451
+North Thomasmouth, TN 07097",Books,8,50.16
+892466,C,7,18.29,10/18/2023 18:23,PayPal,"96496 Patrick Islands
+Lake Nicole, IN 92062",Home Decor,16,108.15
+867913,D,7,38.76,7/30/2023 12:20,PayPal,"81215 Drake Centers
+South Ashleyhaven, IL 05545",Clothing,2,264.69
+199367,A,8,48,11/2/2023 17:35,Debit Card,"2959 Heather Orchard
+North Rebecca, MT 87449",Books,16,323.9
+496177,A,5,25.92,8/10/2023 2:46,Cash,"7455 Pena Cape
+Tiffanystad, ME 78027",Electronics,5,122.61
+497860,B,3,52.2,12/20/2023 7:31,Debit Card,"20633 Jeremiah Trace
+North Jose, VT 92231",Home Decor,15,132.48
+487175,D,8,73.56,2/14/2024 12:16,Debit Card,"98751 Isaac Court Apt. 812
+East Tracy, IL 95098",Clothing,19,476.16
+573789,B,6,49.33,4/2/2024 6:34,PayPal,"269 Gonzales Prairie
+Anthonyburgh, ID 16216",Books,19,240.69
+63925,B,3,31.07,6/7/2023 7:51,Debit Card,"065 Nancy Gateway Suite 237
+Port Marcus, AL 04964",Electronics,20,74.8
+87781,C,1,47.33,3/20/2024 2:48,Debit Card,"90846 Fuller Burgs
+Hendersontown, VT 91293",Books,4,45.27
+350384,A,3,63.32,12/29/2023 6:54,Credit Card,"319 Cory Park
+Dukeland, RI 05923",Electronics,19,153.07
+829031,D,5,94.28,6/19/2023 3:12,Cash,"2155 Hartman Turnpike Apt. 632
+Charlestown, MO 76093",Electronics,4,452.98
+211409,C,3,54.95,9/6/2023 17:42,Credit Card,"PSC 4308, Box 2125
+APO AE 53765",Clothing,1,163.23
+13104,D,1,89.91,6/20/2023 3:01,Debit Card,"85150 Harris Garden
+Rodriguezville, NY 80407",Clothing,3,86.82
+113126,B,5,98.61,1/22/2024 7:51,PayPal,"373 Wagner Extensions
+Port Heidi, IN 15041",Electronics,0,490.91
+954635,C,7,60.31,1/31/2024 12:14,Cash,"344 Sutton Plains Apt. 541
+Tammyport, LA 57073",Electronics,0,421.72
+123054,A,7,23.24,8/18/2023 14:33,PayPal,"407 Klein Club Apt. 003
+Davistown, AS 09777",Books,12,142.99
+142499,B,9,88.78,5/8/2023 0:23,Credit Card,"409 Hampton Hill
+Lake Gail, MA 03704",Electronics,1,791.91
+965904,D,3,87.61,5/24/2023 3:49,Cash,"86293 Nancy Radial
+South Jamesview, FM 65253",Electronics,6,247.45
+282062,D,7,88.17,7/29/2023 21:58,Cash,"85502 Colleen Fields Suite 061
+Johnsonside, MD 12669",Books,9,561.56
+477717,D,1,95.55,6/12/2023 9:56,PayPal,"62861 Cruz Wall Suite 673
+North Teresabury, AS 87155",Electronics,4,91.3
+425222,D,4,34.88,2/5/2024 18:58,Debit Card,"785 Gomez Knoll
+Jeffreyport, VT 46521",Home Decor,19,112.92
+649944,C,4,40.01,9/21/2023 5:43,Credit Card,"60384 Mark Divide
+Port Hannahfurt, NM 16259",Books,6,150.2
+235323,B,5,71.84,8/26/2023 13:42,Debit Card,"77571 Aguilar Crescent
+New Timside, TN 43984",Home Decor,0,357.53
+397000,B,7,60.75,4/25/2024 20:36,PayPal,"494 Lopez Spring
+Debrafort, DC 31407",Clothing,8,391.08
+986917,D,7,88.15,2/3/2024 6:20,Debit Card,"17681 Patterson Brook
+West Curtisborough, FM 27507",Home Decor,2,603.09
+391278,C,4,32.91,10/26/2023 16:17,Debit Card,"274 Clinton Row
+South Lisa, GU 59454",Clothing,17,109.24
+945683,A,7,69.26,11/9/2023 10:42,Credit Card,"21205 Matthew Coves Apt. 355
+Lake Graceton, WA 89273",Electronics,11,432.9
+999329,D,3,94.64,7/1/2023 12:02,PayPal,"88318 Jeffrey Harbor
+Aliciafort, ME 52389",Books,2,278.71
+934277,A,6,29.43,7/4/2023 6:45,PayPal,"841 Jennifer Lodge Suite 593
+West Amandabury, NM 27811",Clothing,7,163.66
+174338,D,2,37.62,5/19/2023 14:02,Credit Card,"22794 James Fort Suite 378
+East Victoria, AZ 38497",Clothing,7,69.63
+545912,A,9,46.67,11/13/2023 22:43,Credit Card,"957 John Grove Suite 224
+Carrollfurt, MA 25724",Home Decor,15,355.47
+88220,A,5,17.84,2/23/2024 17:23,Cash,"92480 Kelsey Club Apt. 792
+North Danabury, NV 52001",Books,19,71.87
+173080,C,6,25.92,7/8/2023 4:57,PayPal,"3346 Hunt Vista
+West Michaelside, HI 52847",Home Decor,6,145.88
+400897,D,4,44.39,3/11/2024 10:50,Credit Card,"235 Logan Road
+Port Marcusport, WY 03455",Electronics,4,169.84
+636398,C,7,16.7,6/10/2023 10:41,Cash,"PSC 3555, Box 8474
+APO AA 67962",Home Decor,15,99.47
+638748,A,9,42.64,5/4/2023 8:33,PayPal,"490 Young Fields
+Smallberg, MT 45964",Electronics,10,344.41
+597048,D,7,31.97,10/16/2023 18:45,Debit Card,"780 Kristi Creek
+West Hannahberg, MS 83311",Books,15,190.84
+472957,B,1,87.81,6/22/2023 2:56,PayPal,"14566 Alyssa Court Suite 449
+Melindafort, FM 88989",Home Decor,1,86.87
+84596,D,1,64.76,2/1/2024 4:22,Cash,"5501 Harold Spurs Apt. 087
+East Tracyport, UT 09987",Home Decor,20,51.85
+562014,A,9,90.86,4/8/2024 6:09,Debit Card,"68754 James Branch Apt. 009
+Alexisville, NE 90702",Books,10,738.57
+469434,B,9,28.26,12/5/2023 4:58,PayPal,"4321 Susan Valleys
+West Benjamin, ID 64991",Electronics,17,211.87
+252922,A,4,17.35,8/26/2023 13:34,Cash,"Unit 1535 Box 5709
+DPO AP 57706",Clothing,4,66.91
+977032,A,9,41.86,5/11/2023 10:36,Debit Card,"96028 Eddie Estate
+Mitchellville, NE 77272",Clothing,3,364.96
+745071,C,3,15.08,5/31/2023 16:39,PayPal,"080 Thomas Route Suite 101
+South Jamesmouth, WA 54676",Home Decor,7,41.99
+638578,D,7,89.52,7/7/2023 16:05,PayPal,"4048 David Islands Apt. 534
+Daviston, AZ 16773",Books,5,596.18
+254206,A,6,26.93,2/14/2024 23:43,PayPal,"3530 Ellis Avenue
+Port Tracy, ME 79036",Electronics,3,156.36
+937354,A,8,22.7,3/19/2024 11:20,PayPal,"50572 Steven Square Apt. 432
+Thomasstad, GU 29278",Home Decor,2,178.11
+758832,B,9,80.9,2/25/2024 13:48,Debit Card,"248 Cochran Village
+West Dianaland, TX 12916",Home Decor,2,712.85
+889978,D,5,74.12,11/21/2023 7:56,Debit Card,"8906 Williams Prairie Apt. 061
+Nicolemouth, KS 94341",Electronics,3,358.34
+381440,B,1,15.13,1/15/2024 17:11,Cash,"505 Dennis Courts
+North Christopherburgh, DE 62352",Books,2,14.82
+330581,D,3,55.86,12/1/2023 0:32,PayPal,"30842 Simon Mountains
+New Davidbury, KS 13404",Home Decor,11,148.99
+630099,D,8,50.4,8/1/2023 17:31,Debit Card,"031 Khan Parkway Apt. 597
+North Tanyaland, OR 29820",Books,17,334.78
+933612,A,6,44.82,1/24/2024 23:06,Debit Card,"271 Cooper Haven
+Anthonystad, OH 91347",Clothing,17,222.94
+402432,D,8,21.4,5/8/2023 21:06,Cash,"68018 Griffin Square
+North Michaelborough, MP 69490",Electronics,19,138.75
+517772,A,9,80.86,2/1/2024 23:37,Cash,"03368 Ashley Divide
+Gailport, WV 40464",Clothing,8,667.26
+35839,B,4,31.6,12/30/2023 9:31,Debit Card,"7700 Anthony Manors Apt. 103
+Powellborough, MO 60997",Electronics,16,105.69
+225733,D,1,51.24,5/16/2023 16:23,Credit Card,"019 Marvin Cape
+Terrifurt, MA 99203",Home Decor,14,43.95
+776979,A,1,89.3,12/17/2023 11:19,Debit Card,"758 Ashley Ports Suite 163
+West Mary, RI 71233",Clothing,18,72.88
+221937,A,4,38.64,4/22/2024 20:17,Credit Card,"9425 Brandon Oval Suite 482
+Crystalberg, MI 21625",Clothing,12,135.66
+175416,D,7,13.22,3/7/2024 5:54,Debit Card,"00330 Bates Valleys Suite 357
+Bryanttown, IL 67826",Books,4,88.91
+646696,D,2,90.02,8/30/2023 4:53,Cash,"530 Anderson Drive
+South Phillipfort, WV 81658",Books,16,150.76
+688072,C,3,54.45,6/6/2023 11:18,Credit Card,"167 Jason Course Apt. 531
+West Paula, ID 11466",Electronics,4,157.04
+916513,D,1,54.74,12/9/2023 12:37,Debit Card,"459 Sutton Mountains Suite 451
+Bernardport, WI 12076",Home Decor,9,49.98
+538692,D,5,59.63,12/4/2023 15:19,Debit Card,"09098 Morton Trafficway
+North Loretta, AZ 89521",Books,14,255.77
+172943,A,1,26.19,9/9/2023 0:45,Credit Card,"Unit 9800 Box 8766
+DPO AE 93292",Electronics,18,21.56
+481676,D,8,74.34,6/21/2023 16:46,Credit Card,"125 Vasquez Cove
+Lake Megan, OR 45416",Clothing,6,561.05
+214608,A,1,30.82,8/12/2023 4:28,PayPal,"636 Vega Inlet Suite 700
+North Stevenview, CT 71706",Home Decor,3,29.89
+590942,A,1,37.1,12/13/2023 12:16,Credit Card,"9412 Saunders Terrace Apt. 183
+Harrisfort, OK 19012",Books,12,32.54
+108361,C,2,66.81,5/21/2023 1:38,PayPal,"87005 Smith Harbors Suite 391
+Hartchester, WA 85942",Home Decor,8,123.2
+116067,B,2,77.48,8/5/2023 22:32,Cash,"30226 Nina Extension Suite 568
+New Jacobport, AL 11051",Books,13,134.97
+420390,A,6,75.76,1/4/2024 14:39,PayPal,"84808 Heather Drives
+Everetthaven, TN 48694",Clothing,17,377.65
+218306,C,7,17.48,11/29/2023 4:13,Cash,"73076 Sweeney Pines
+Mccarthyborough, KS 56018",Electronics,10,110.31
+908160,B,5,77.91,5/2/2023 14:10,PayPal,"31900 Stewart Parkway Apt. 859
+Jamesshire, VA 79536",Electronics,2,383.26
+16642,A,1,69.65,2/29/2024 3:59,Cash,"2694 Terrance Spurs Apt. 300
+Sheilafort, NH 73334",Electronics,19,56.66
+147851,C,1,64.46,9/24/2023 1:20,Credit Card,"9442 Gray Rapids Apt. 456
+West Angelaton, NJ 04734",Clothing,6,60.68
+714511,A,3,97.02,9/27/2023 19:22,Debit Card,"375 Audrey Isle Apt. 650
+Gibsonmouth, NC 15026",Electronics,19,234.48
+143779,A,2,41.21,4/7/2024 17:30,Cash,"8659 Clay Street Apt. 193
+Christineshire, FM 97293",Books,17,68.55
+491768,B,5,71.48,5/14/2023 21:29,Cash,"PSC 9458, Box 9421
+APO AA 84039",Home Decor,6,334.29
+390190,A,6,61.59,7/4/2023 23:14,Cash,"581 Charlotte Land
+Lake Jasonhaven, ME 77590",Home Decor,8,338.47
+718553,B,7,44.92,3/25/2024 3:43,Debit Card,"4023 Jennifer Prairie Apt. 711
+Rodriguezshire, NH 07463",Books,2,309.61
+490125,C,4,80.94,4/2/2024 3:47,PayPal,"9562 Peter Mill
+Whitakermouth, PR 71963",Books,16,273.06
+11452,B,7,46.28,3/8/2024 12:40,Credit Card,"0585 Tiffany Square
+Staceyborough, WA 20704",Electronics,6,303.83
+98927,C,8,60.27,1/15/2024 4:52,Credit Card,"20309 Clark Inlet Suite 305
+South Juliaborough, SC 66330",Electronics,3,465.72
+23830,C,1,60.46,1/14/2024 0:26,Debit Card,"610 Martinez Points Suite 875
+Morrisview, KY 61533",Books,16,50.63
+322347,A,6,56.02,12/19/2023 23:26,PayPal,"505 Haynes Stream Suite 207
+East Natalie, AR 71209",Home Decor,17,279.34
+99487,D,8,51.17,2/17/2024 21:46,Debit Card,"7089 Marshall Cliff Apt. 323
+New Wendymouth, CT 55710",Books,7,379.26
+174752,B,5,25.1,9/12/2023 3:14,PayPal,"1196 Corey Bypass Suite 715
+Sosaville, MN 09737",Clothing,5,119.05
+150760,B,4,31.68,5/24/2023 4:28,Debit Card,"0522 Peters Branch
+North Brandonville, CT 86024",Books,13,110.05
+300755,C,2,21.12,12/1/2023 8:06,Credit Card,"385 Jamie Extensions
+Lake Crystal, ME 45133",Books,6,39.75
+318978,B,6,75.11,10/9/2023 19:33,Cash,"8238 Cristian Course Suite 182
+Port Gregory, NC 86391",Home Decor,10,404.82
+447037,D,6,76.99,7/7/2023 15:19,Credit Card,"06505 Park Mews Suite 258
+Vasquezton, MN 05747",Electronics,13,402.56
+494205,D,1,67.47,8/26/2023 16:11,Cash,"88341 Hammond Vista Suite 966
+East Michelleborough, MI 91511",Electronics,12,59.14
+375520,D,9,92.59,10/5/2023 16:56,Cash,"731 Steven Spring
+Fullerhaven, MS 22618",Books,14,716.69
+550537,C,6,33.85,9/26/2023 5:22,Cash,"7636 Matthew Corners
+Marshallbury, IN 29188",Electronics,7,188.24
+372905,C,3,83.89,6/19/2023 9:29,Cash,"35098 Ritter View
+North Davidtown, WV 13685",Home Decor,11,224.54
+116842,D,4,26.73,6/14/2023 14:38,Cash,"667 Jamie Estate
+North Vincentfort, NM 03983",Clothing,3,103.52
+314341,B,4,16.1,2/5/2024 19:56,PayPal,"98727 Jason Shores Suite 155
+Williamsmouth, AS 63873",Books,3,62.19
+342790,D,3,10.01,3/24/2024 18:36,Credit Card,"04543 Breanna River Suite 442
+East Antonio, HI 08553",Home Decor,12,26.55
+16227,D,3,62.26,5/30/2023 21:45,PayPal,"578 Gabriela Hollow
+Port Krystalville, CA 78917",Clothing,6,176.09
+706934,A,3,80.09,4/1/2024 3:08,Debit Card,"982 Sharp Course Apt. 107
+Charlesberg, PR 83735",Books,0,240.2
+146849,D,4,84.07,8/20/2023 10:46,Credit Card,"40336 Zachary Squares Suite 465
+Bethanymouth, HI 03569",Books,16,282.08
+139063,A,7,52.36,12/15/2023 9:12,PayPal,"125 Decker Lake Apt. 111
+Lake Hunter, DE 65050",Clothing,3,354.96
+289399,C,4,15.28,7/28/2023 6:41,PayPal,"675 Atkins Centers
+West Eddie, KS 42906",Electronics,11,54.36
+108890,A,9,13.22,9/9/2023 8:12,PayPal,"3484 Sara Glen
+South Marcusland, UT 69551",Clothing,9,108.42
+92407,D,1,92.56,4/15/2024 10:55,Cash,"6421 Suzanne Summit Apt. 895
+Smithshire, SC 08947",Home Decor,4,89.11
+740728,B,8,18.36,8/20/2023 0:26,Cash,"5744 Cheryl Throughway Suite 651
+Elliottmouth, SC 56874",Home Decor,10,131.79
+803995,C,7,80.62,1/9/2024 3:22,Debit Card,"48801 Fowler Grove
+Lake Joanstad, AZ 85474",Clothing,14,485.93
+326729,D,2,16.26,2/1/2024 15:14,Cash,"6719 Robert Field
+Heatherview, CA 89879",Books,6,30.65
+188339,B,8,26.5,7/16/2023 16:52,Cash,"96755 Martin Plaza Apt. 189
+Dawnfort, VA 12379",Books,15,180.99
+670698,D,1,24.66,12/1/2023 21:22,PayPal,"4767 Christopher Lake Apt. 361
+Johnhaven, LA 24136",Books,17,20.44
+736766,D,9,34.94,12/16/2023 18:55,Debit Card,"USNS Jackson
+FPO AA 77311",Electronics,11,280.92
+423547,D,9,46.51,6/1/2023 0:40,Cash,"8552 Bennett Point
+Lake Brittany, TX 58523",Books,1,412.87
+276714,A,2,21.23,3/4/2024 5:49,Cash,"Unit 4152 Box 6862
+DPO AA 32838",Clothing,0,42.32
+708509,D,7,97.58,11/16/2023 3:33,Credit Card,"28965 John Glen
+North Ericfurt, RI 35461",Home Decor,4,654.04
+206597,C,3,10.18,8/14/2023 20:44,Credit Card,"509 Hernandez Tunnel Apt. 576
+Crosshaven, PA 57423",Electronics,20,24.5
+909161,C,7,79.49,2/23/2024 19:12,Debit Card,"558 Brenda Hill Suite 754
+Pagebury, DC 96525",Books,11,493.3
+149072,A,9,57.39,5/24/2023 10:06,Credit Card,"060 Williams Neck
+East Richard, PW 54196",Books,13,448.25
+962327,B,4,17.7,10/24/2023 14:47,PayPal,"457 Alice Stream
+Raychester, MA 96500",Electronics,13,61.54
+819538,C,1,20.8,12/5/2023 9:41,Debit Card,"PSC 5089, Box 2406
+APO AE 06601",Books,7,19.31
+889340,D,2,63.1,4/8/2024 18:56,PayPal,"29880 Shields Mill Suite 880
+South Margaret, OK 02308",Clothing,3,122.78
+802628,A,1,38.37,3/10/2024 13:12,Debit Card,"050 Ashley Mission
+Hornstad, NM 58384",Books,13,33.38
