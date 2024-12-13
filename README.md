@@ -2,7 +2,7 @@
 
 ### Running the project
 
-+ Start local MySQL server
++ Install all required packages in *requirements.txt* and start local MySQL server
 
 + **Modify  `src/backend/setup.py`**: fill in mysql server password to setup sql database configuration.
 
